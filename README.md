@@ -2,6 +2,8 @@
 
 Official Visual Studio Code language support and TextMate-compatible syntax grammar for the **Semantic Programming Language**.
 
+https://marketplace.visualstudio.com/items?itemName=semanticprogramminglanguage.semantic-programming-language
+
 ## VS Code support
 
 The extension registers Semantic as a language in Visual Studio Code and associates these official formats:
