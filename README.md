@@ -1,5 +1,7 @@
 # Semantic Programming Language for VS Code
 
+![](https://vsmarketplacebadges.dev/version/semanticprogramminglanguage.semantic-programming-language.svg)
+
 Official Visual Studio Code language support and TextMate-compatible syntax grammar for the **Semantic Programming Language**.
 
 https://marketplace.visualstudio.com/items?itemName=semanticprogramminglanguage.semantic-programming-language
